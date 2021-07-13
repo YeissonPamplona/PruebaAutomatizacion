@@ -1,0 +1,23 @@
+# Gradle
+/.gradle/
+*.gradle/
+*/.gradle/
+*build/
+/build/
+*/build/
+
+# IntelliJ
+*.idea/
+/.idea/
+/out//
+*/.idea/
+*/out/
+
+.sonarlint/
+.settings/
+*.project
+
+# Serenity-BDD
+*target/
+/target/
+*/target/
